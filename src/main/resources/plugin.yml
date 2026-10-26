@@ -1,0 +1,6 @@
+name: CandyBalance
+version: 1.0.1
+main: lol.candysmp.balance.CandyBalance
+api-version: '1.21'
+depend: [Vault]
+description: Displays each player's centered pink balance under their name.
